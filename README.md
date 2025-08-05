@@ -12,7 +12,7 @@
 
 Currently hacking on agentic dev workflows, generative-media infra, and the occasional dad-level joke in commit messages.  
 
-Let’s build something weird together — PRs & coffee memes welcome!
+Let’s build something cool together — PRs & coffee memes welcome!
 
 
 <a href="https://app.daily.dev/koltukalti"><img src="https://api.daily.dev/devcards/408283d3c3ce47b2b02ce9fb43163aeb.png?r=ngs" width="400" alt="koltukustu's Dev Card"/></a>
