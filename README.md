@@ -3,7 +3,7 @@
 ### Hey 👋, I’m Semih — a **Full-Stack Human™** (coffee-powered)  
 
 - 🛠 **Deep-Tech Founder** who turned “what if…?” into two shipped AI products at Solace.  
-- 🧩 **Systems-Thinking Engineer** (Industrial Engineering × Computer Science) who sees the matrix ⁠— and then writes the API.  
+- 🧩 **Systems-Thinking Engineer** (Industrial Engineering × Computer Science) who sees the matrix & then writes the API.  
 - 🚀 **Rapid Prototyper**: idea → code → user feedback → v2 **before** the espresso gets cold.  
 - 🤖 **AI/ML Tinkerer** sprinkling LLMs & edge models wherever there’s latency to slay.  
 - 🎨 **UX Believer** because elegance isn’t optional (and dark-mode is table stakes).  
