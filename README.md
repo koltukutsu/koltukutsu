@@ -1,6 +1,6 @@
 <!-- README.md / GitHub bio -->
 
-### Hey 👋, I’m Semih — a **Full-Stack Human™** (coffee-powered)  
+### Hey 👋, I’m Semih — a **Full-Stack Human™** (matcha-powered)  
 
 - 🛠 **Deep-Tech Founder** who turned “what if…?” into two shipped AI products at Solace.  
 - 🧩 **Systems-Thinking Engineer** (Industrial Engineering × Computer Science) who sees the matrix & then writes the API.  
