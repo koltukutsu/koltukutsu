@@ -1,8 +1,18 @@
-### Hi there 👋
-I am semih:
+<!-- README.md / GitHub bio -->
 
-- 🔭 I’m an entrepreneur and computer scientist, also a double major engineer. 
-- 📫 My personal website: <a href="https://msbabacan.tech" rel="noopener noreferrer" target="_blank">msbabacan.tech</a>
-- ⚡ Fun fact: I am quite interested in things, I cannot resist the urge of researching different fields and discussing about them.
+### Hey 👋, I’m Semih — a **Full-Stack Human™** (coffee-powered)  
+
+- 🛠 **Deep-Tech Founder** who turned “what if…?” into two shipped AI products at Solace.  
+- 🧩 **Systems-Thinking Engineer** (Industrial Engineering × Computer Science) who sees the matrix ⁠— and then writes the API.  
+- 🚀 **Rapid Prototyper**: idea → code → user feedback → v2 **before** the espresso gets cold.  
+- 🤖 **AI/ML Tinkerer** sprinkling LLMs & edge models wherever there’s latency to slay.  
+- 🎨 **UX Believer** because elegance isn’t optional (and dark-mode is table stakes).  
+
+> “Ship early, laugh often, automate the boring bits.”
+
+Currently hacking on agentic dev workflows, generative-media infra, and the occasional dad-level joke in commit messages.  
+
+Let’s build something weird together — PRs & coffee memes welcome!
+
 
 <a href="https://app.daily.dev/koltukalti"><img src="https://api.daily.dev/devcards/408283d3c3ce47b2b02ce9fb43163aeb.png?r=ngs" width="400" alt="koltukustu's Dev Card"/></a>
